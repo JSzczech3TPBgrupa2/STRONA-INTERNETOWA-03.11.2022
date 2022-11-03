@@ -1,0 +1,26 @@
+1. Plany harmonogramu
+	Michał - menadżer projektu/php/python
+	Jakub - kierownik/css/html
+	Adam - baza danych/php
+	Szymon - javascript
+	Kacper - grafik/zastępca kierownika/html/css
+
+2. Fazy realizacji zadań
+	1) Dokumentacja projektu,
+	2) Projekt rysunkowy,
+	3) Stworzenie loga strony,
+	4) Przystąpienie programistów do stworzenia strony i bazy danych,
+	5) Kierownik na bierząco sprawdza aktualizacje strony, oraz poprawia błędy,
+	6) Finalne testowanie strony web.
+
+3. Cel projektu
+	Ułatwienie użytkownikom dodawania ogłoszeń.
+
+4. Data wykonania
+	03.11.2022 - 24.11.2022
+
+	1 tydzień: Przystąpienie do realizacji projektu.
+
+	2 tydzień: Tworzenie strony internetowej.
+
+	3 tydzień: Testowanie, a następnie prezentacja wspólnej pracy na forum klasy.
